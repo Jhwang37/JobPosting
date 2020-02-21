@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+#add-job button{
+    align-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+body{
+    background-color: #F5F6F7!important;
+    font-family: 'Roboto Condensed;
+}
+
+
+h1{
+    text-align: center;
+    size:300px!important;
+    color: #312B2E!important;
+}
+h4{
+    text-align: center;
+
+}
+img{
+    height: 250px;
+    object-fit: scale-down;
+}
+.job-show{
+    border: 3px solid black;
+    display: inline;
+}
+.form-actions {
+    background-color: transparent;
+    text-align: center;
+    align-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.form-actions .btn{
+    size: 150px!important;
+    color: black!important;
+    border: 2px solid black!important;
+    background-color: whitesmoke;
+}
+
+/*--NAVBAR--*/
+#nav-bar{
+    background: #F5F6F7!important;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.change{
+    color: #689A82;
+}
+.navbar-brand img{
+    height: 40px;
+    padding-left: 30px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    float: right;
+    text-align: left;
+
+}
+#nav-bar ul li a:hover{
+    color: #007bff!important;
+}
+.navbar{
+    background: #fff;
+}
+.navbar-toggler{
+    border: none!important;
+}
+.nav-link{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+/*-----FORM----*/
+.contact {
+    background: #efefef;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+    align-content: center;
+    border: 2px solid black;
+    width: 400px;
+}
+
+.contact button{
+    size: 150px;
+    border: 1px solid black;
+}
+.contact button:hover{
+    color: gray;
+}
+.contact input{
+    display: inline-block;
+}
+.contact-form{
+    padding: 15px;
+}
+.form-control{
+    border-radius: 0!important;
+    border: none!important;
+}
+::placeholder{
+    color: #999!important;
+}
+.follow{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+
+}
+.contact-info .fa{
+    margin: 10px;
+    color: #007bff;
+    font-weight: bold;
+}
+h4{
+   size: 80px;
+}
+
+#footer{
+    background: #E9ECEF;
+    color: black;
+    padding: 12px;
+}
+
